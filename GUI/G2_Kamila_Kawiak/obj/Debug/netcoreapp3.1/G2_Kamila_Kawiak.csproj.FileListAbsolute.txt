@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.exe
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.deps.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.runtimeconfig.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.dll
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\bin\Debug\netcoreapp3.1\G2_Kamila_Kawiak.pdb
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\obj\Debug\netcoreapp3.1\G2_Kamila_Kawiak.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\obj\Debug\netcoreapp3.1\G2_Kamila_Kawiak.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\obj\Debug\netcoreapp3.1\G2_Kamila_Kawiak.AssemblyInfo.cs
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\obj\Debug\netcoreapp3.1\G2_Kamila_Kawiak.dll
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\G2_Kamila_Kawiak\obj\Debug\netcoreapp3.1\G2_Kamila_Kawiak.pdb

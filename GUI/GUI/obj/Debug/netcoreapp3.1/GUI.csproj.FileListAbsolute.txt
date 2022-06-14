@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.cache
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI_MarkupCompile.lref
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.g.resources
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\admin\Desktop\Kawiak_Kamila\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
